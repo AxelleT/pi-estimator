@@ -12,4 +12,8 @@ Si vous souhaitez modifier le nombre de points, ouvrez le fichier pi_estimator.p
 
 ### n = 100 000
 
+![alt text](https://github.com/AxelleT/pi-estimator/blob/pi-estimator/results/results_100_000.png?raw=true)
+
 ### n = 1 000 000
+
+![alt text](https://github.com/AxelleT/pi-estimator/blob/pi-estimator/results/results_1_000_000.png?raw=true)
